@@ -1,0 +1,55 @@
+.header {
+	height: 150px;
+	background-color: red;
+	font-family: helvetica;
+	text-align: center;
+	color: white;
+	margin:auto;
+
+}
+	
+	.header h1{
+		padding-top: 20px;
+	}
+	.header h2{
+		margin-top: -10px;
+	}
+
+.body {
+	width: 740px;
+	font-family: helvetica;
+	font-size: 20px;
+	padding-top: 50px;
+	margin-left: 300px;
+}
+
+.link {
+	font-family: helvetica;
+	margin-top: 150px;
+	font-size: 20px;
+	margin-left: 350px;
+}
+
+.link a{
+	color: red;
+	text-decoration: none;
+}
+
+
+.copy {
+	float: left;
+	width: 400px;
+	margin-top: -150px;
+	margin-left: 650px; 
+
+}
+
+.footer {
+	float: left;
+	display: block;
+	margin-top: 100px;
+	background-color: black;
+	color: white;
+}
+
+
